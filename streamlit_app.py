@@ -12,4 +12,4 @@ streamlit.text("Hello from Snowflake:")
 streamlit.text(my_data_row)
 
 
-streamlit.title('Zena`s Atheisure Company')
+streamlit.title('Zena`s Athleisure Catalog!!')
